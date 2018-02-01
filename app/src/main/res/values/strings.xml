@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NewsViewModelDemo</string>
+    <string name="refresh">Refresh</string>
 </resources>
